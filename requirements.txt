@@ -1,0 +1,4 @@
+groq
+neo4j
+pinecone
+sentence-transformers
